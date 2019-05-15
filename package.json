@@ -1,0 +1,23 @@
+{
+  "name": "tx-i18n-test",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "webpack --config webpack.config.js --progress"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.3",
+    "@types/react-dom": "^16.8.1",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^5.3.3",
+    "tx-i18n": "^0.5.1",
+    "typescript": "^3.3.3",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
